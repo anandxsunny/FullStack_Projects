@@ -1,0 +1,11 @@
+body{
+	background-color: lightgrey;
+	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+	.box{
+		border-radius: 10px;
+		background-color: white;
+		margin:7% 30%;	 
+		height: 40%;
+		padding: 25px 50px 50px;
+	}
